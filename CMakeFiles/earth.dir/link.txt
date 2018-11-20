@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/earth.dir/earth.cpp.o  -o earth 

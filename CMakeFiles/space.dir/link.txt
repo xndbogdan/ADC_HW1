@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/space.dir/space.cpp.o  -o space 

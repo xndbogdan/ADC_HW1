@@ -1,0 +1,4 @@
+/home/aftermath/Projects/ADC_HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aftermath/Projects/ADC_HW1/cmake-build-debug/CMakeFiles/earth.dir
+/home/aftermath/Projects/ADC_HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aftermath/Projects/ADC_HW1/cmake-build-debug/CMakeFiles/space.dir
